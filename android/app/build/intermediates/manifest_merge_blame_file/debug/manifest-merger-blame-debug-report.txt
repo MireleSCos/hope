@@ -9,162 +9,162 @@
 9        android:targetSdkVersion="28" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:7:5-77
-11-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:7:22-75
+11-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:7:5-77
+11-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:7:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:6:5-67
-12-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:6:22-64
+12-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:6:5-67
+12-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:6:22-64
 13    <uses-permission android:name="android.permission.WAKE_LOCK" />
-13-->[:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
-13-->[:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
-14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- for android -->
-14-->[:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
-14-->[:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
-15    <!-- <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/> -->
-16    <!-- <uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/> -->
-17    <!-- <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" /> -->
-18    <!-- <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" /> -->
-19    <!-- for Samsung -->
-20    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
-20-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
-20-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
-21    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- for htc -->
-21-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
-21-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
-22    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
-22-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
-22-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
-23    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- for sony -->
-23-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
-23-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
-24    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
-24-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
-24-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
-25    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- for apex -->
-25-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
-25-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
-26    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- for solid -->
-26-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
-26-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
-27    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- for huawei -->
-27-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
-27-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
-28    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
-28-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
-28-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
-29    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
-29-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
-29-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
-30    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- for ZUK -->
-30-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
-30-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
-31    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- for OPPO -->
-31-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
-31-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
-32    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
-32-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
-32-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
-33    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- for EvMe -->
-33-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
-33-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
-34    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
-34-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
-34-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
-35    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-35-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
-35-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
-36    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-36-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
-36-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
+13-->[:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+13-->[:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+14-->[:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+14-->[:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+15    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" /> <!-- for android -->
+15-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
+15-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
+16    <!-- <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/> -->
+17    <!-- <uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/> -->
+18    <!-- <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" /> -->
+19    <!-- <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" /> -->
+20    <!-- for Samsung -->
+21    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+21-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+21-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+22    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- for htc -->
+22-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+22-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+23    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+23-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+23-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+24    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- for sony -->
+24-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+24-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+25    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+25-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+25-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+26    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- for apex -->
+26-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+26-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+27    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- for solid -->
+27-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+27-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+28    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- for huawei -->
+28-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+28-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+29    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+29-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+29-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+30    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+30-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+30-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+31    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- for ZUK -->
+31-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+31-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+32    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- for OPPO -->
+32-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+32-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+33    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+33-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+33-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+34    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- for EvMe -->
+34-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+34-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+35    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+35-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+35-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+36    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+36-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+36-->[me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
 37    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
 37-->[com.google.android.gms:play-services-measurement:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/67aa390f07c3899bf95059b428ea3d3a/play-services-measurement-17.2.1/AndroidManifest.xml:26:5-110
 37-->[com.google.android.gms:play-services-measurement:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/67aa390f07c3899bf95059b428ea3d3a/play-services-measurement-17.2.1/AndroidManifest.xml:26:22-107
 38
 39    <application
-39-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:9:5-40:19
+39-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:9:5-40:19
 40        android:name="com.ufpb.teste.MainApplication"
-40-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:10:7-38
+40-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:10:7-38
 41        android:allowBackup="true"
-41-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:11:7-33
+41-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:11:7-33
 42        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 42-->[androidx.core:core:1.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/d7905fe922a6dc927b27f293fc4a91a5/core-1.0.1/AndroidManifest.xml:22:18-86
 43        android:debuggable="true"
 44        android:icon="@mipmap/ic_launcher"
-44-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:13:7-41
+44-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:13:7-41
 45        android:label="@string/app_name"
-45-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:12:7-39
+45-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:12:7-39
 46        android:roundIcon="@mipmap/ic_launcher_round"
-46-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:14:7-52
+46-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:14:7-52
 47        android:theme="@style/AppTheme"
-47-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:15:7-38
+47-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:15:7-38
 48        android:usesCleartextTraffic="true" >
-48-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/debug/AndroidManifest.xml:7:18-53
+48-->/home/mirele/Documentos/projetos/hope/android/app/src/debug/AndroidManifest.xml:7:18-53
 49        <meta-data
-49-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:16:7-18:69
+49-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:16:7-18:69
 50            android:name="com.google.android.gms.ads.APPLICATION_ID"
-50-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:17:13-69
+50-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:17:13-69
 51            android:value="ca-app-pub-3940256099942544~3347511713" />
-51-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:18:13-67
+51-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:18:13-67
 52
 53        <activity
-53-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:19:7-28:18
+53-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:19:7-28:18
 54            android:name="com.ufpb.teste.MainActivity"
-54-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:20:9-37
+54-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:20:9-37
 55            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-55-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:22:9-79
+55-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:22:9-79
 56            android:label="@string/app_name"
-56-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:21:9-41
+56-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:21:9-41
 57            android:windowSoftInputMode="adjustResize" >
-57-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:23:9-51
+57-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:23:9-51
 58            <intent-filter>
-58-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:24:9-27:25
+58-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:24:9-27:25
 59                <action android:name="android.intent.action.MAIN" />
-59-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:25:13-65
-59-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:25:21-62
+59-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:25:13-65
+59-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:25:21-62
 60
 61                <category android:name="android.intent.category.LAUNCHER" />
-61-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:26:13-73
-61-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:26:23-70
+61-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:26:13-73
+61-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:26:23-70
 62            </intent-filter>
 63        </activity>
 64        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-64-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:29:7-84
-64-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:29:17-81
+64-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:29:7-84
+64-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:29:17-81
 65
 66        <service android:name="io.invertase.firebase.messaging.RNFirebaseMessagingService" >
-66-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:30:7-34:17
-66-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:30:16-89
+66-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:30:7-34:17
+66-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:30:16-89
 67            <intent-filter>
-67-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:31:9-33:25
+67-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:31:9-33:25
 68                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-68-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:32:11-72
-68-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:32:19-69
+68-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:32:11-72
+68-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:32:19-69
 69            </intent-filter>
 70        </service>
 71        <service android:name="io.invertase.firebase.messaging.RNFirebaseInstanceIdService" >
-71-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:35:7-39:17
-71-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:35:16-90
+71-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:35:7-39:17
+71-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:35:16-90
 72            <intent-filter>
-72-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:36:9-38:25
+72-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:36:9-38:25
 73                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
-73-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:37:11-74
-73-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:37:19-71
+73-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:37:11-74
+73-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:37:19-71
 74            </intent-filter>
 75        </service>
 76        <service
-76-->[:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+76-->[:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
 77            android:name="com.google.firebase.components.ComponentDiscoveryService"
-77-->[:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+77-->[:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
 78            android:directBootAware="true"
 78-->[com.google.firebase:firebase-common:19.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/2daae37d5dbe463f0500250cbaf3a85a/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
 79            android:exported="false" >
 79-->[com.google.firebase:firebase-auth:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0f6e96488cde769b022bb892f30a5da/firebase-auth-19.2.0/AndroidManifest.xml:35:13-37
 80            <meta-data
-80-->[:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+80-->[:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
 81                android:name="com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar"
-81-->[:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+81-->[:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
 82                android:value="com.google.firebase.components.ComponentRegistrar" />
-82-->[:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+82-->[:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
 83            <meta-data
 83-->[com.google.firebase:firebase-auth:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0f6e96488cde769b022bb892f30a5da/firebase-auth-19.2.0/AndroidManifest.xml:36:13-38:85
 84                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
@@ -172,47 +172,47 @@
 85                android:value="com.google.firebase.components.ComponentRegistrar" />
 85-->[com.google.firebase:firebase-auth:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0f6e96488cde769b022bb892f30a5da/firebase-auth-19.2.0/AndroidManifest.xml:38:17-82
 86            <meta-data
-86-->[com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:34:13-36:85
-87                android:name="com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar"
-87-->[com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:35:17-109
+86-->[com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:33:13-35:85
+87                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+87-->[com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:34:17-107
 88                android:value="com.google.firebase.components.ComponentRegistrar" />
-88-->[com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:36:17-82
+88-->[com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:35:17-82
 89            <meta-data
-89-->[com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:32:13-34:85
-90                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
-90-->[com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:33:17-117
+89-->[com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:34:13-36:85
+90                android:name="com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar"
+90-->[com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:35:17-109
 91                android:value="com.google.firebase.components.ComponentRegistrar" />
-91-->[com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:34:17-82
+91-->[com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:36:17-82
 92            <meta-data
-92-->[com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:33:13-35:85
-93                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
-93-->[com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:34:17-107
+92-->[com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:20:13-22:85
+93                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+93-->[com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:21:17-111
 94                android:value="com.google.firebase.components.ComponentRegistrar" />
-94-->[com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:35:17-82
+94-->[com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:22:17-82
 95            <meta-data
-95-->[com.google.firebase:firebase-dynamic-links:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/f86a099be3c3a6102d2c3b9f4a9dcad4/firebase-dynamic-links-19.0.0/AndroidManifest.xml:9:13-11:85
-96                android:name="com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar"
-96-->[com.google.firebase:firebase-dynamic-links:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/f86a099be3c3a6102d2c3b9f4a9dcad4/firebase-dynamic-links-19.0.0/AndroidManifest.xml:10:17-133
+95-->[com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:18:13-20:85
+96                android:name="com.google.firebase.components:com.google.firebase.functions.FunctionsRegistrar"
+96-->[com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:19:17-111
 97                android:value="com.google.firebase.components.ComponentRegistrar" />
-97-->[com.google.firebase:firebase-dynamic-links:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/f86a099be3c3a6102d2c3b9f4a9dcad4/firebase-dynamic-links-19.0.0/AndroidManifest.xml:11:17-82
+97-->[com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:20:17-82
 98            <meta-data
-98-->[com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:32:13-34:85
-99                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-99-->[com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:33:17-109
+98-->[com.google.firebase:firebase-dynamic-links:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/f86a099be3c3a6102d2c3b9f4a9dcad4/firebase-dynamic-links-19.0.0/AndroidManifest.xml:9:13-11:85
+99                android:name="com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar"
+99-->[com.google.firebase:firebase-dynamic-links:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/f86a099be3c3a6102d2c3b9f4a9dcad4/firebase-dynamic-links-19.0.0/AndroidManifest.xml:10:17-133
 100                android:value="com.google.firebase.components.ComponentRegistrar" />
-100-->[com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:34:17-82
+100-->[com.google.firebase:firebase-dynamic-links:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/f86a099be3c3a6102d2c3b9f4a9dcad4/firebase-dynamic-links-19.0.0/AndroidManifest.xml:11:17-82
 101            <meta-data
-101-->[com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:18:13-20:85
-102                android:name="com.google.firebase.components:com.google.firebase.functions.FunctionsRegistrar"
-102-->[com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:19:17-111
+101-->[com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:32:13-34:85
+102                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+102-->[com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:33:17-109
 103                android:value="com.google.firebase.components.ComponentRegistrar" />
-103-->[com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:20:17-82
+103-->[com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:34:17-82
 104            <meta-data
-104-->[com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:20:13-22:85
-105                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-105-->[com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:21:17-111
+104-->[com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:32:13-34:85
+105                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
+105-->[com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:33:17-117
 106                android:value="com.google.firebase.components.ComponentRegistrar" />
-106-->[com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:22:17-82
+106-->[com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:34:17-82
 107            <meta-data
 107-->[com.google.firebase:firebase-messaging:20.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/360a2414925ade2feb412c28f1a05230/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:38:13-40:85
 108                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
@@ -220,23 +220,23 @@
 109                android:value="com.google.firebase.components.ComponentRegistrar" />
 109-->[com.google.firebase:firebase-messaging:20.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/360a2414925ade2feb412c28f1a05230/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:40:17-82
 110            <meta-data
-110-->[com.google.firebase:firebase-datatransport:17.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/d6f6bf5c117bd2e77b8bb6a4d4871b8f/firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
-111                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
-111-->[com.google.firebase:firebase-datatransport:17.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/d6f6bf5c117bd2e77b8bb6a4d4871b8f/firebase-datatransport-17.0.3/AndroidManifest.xml:29:17-115
+110-->[com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:30:13-32:85
+111                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+111-->[com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:31:17-139
 112                android:value="com.google.firebase.components.ComponentRegistrar" />
-112-->[com.google.firebase:firebase-datatransport:17.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/d6f6bf5c117bd2e77b8bb6a4d4871b8f/firebase-datatransport-17.0.3/AndroidManifest.xml:30:17-82
+112-->[com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:32:17-82
 113            <meta-data
-113-->[com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:30:13-32:85
-114                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-114-->[com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:31:17-139
+113-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:32:13-34:85
+114                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+114-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:33:17-96
 115                android:value="com.google.firebase.components.ComponentRegistrar" />
-115-->[com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:32:17-82
+115-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:34:17-82
 116            <meta-data
-116-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:32:13-34:85
-117                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
-117-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:33:17-96
+116-->[com.google.firebase:firebase-datatransport:17.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/d6f6bf5c117bd2e77b8bb6a4d4871b8f/firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
+117                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+117-->[com.google.firebase:firebase-datatransport:17.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/d6f6bf5c117bd2e77b8bb6a4d4871b8f/firebase-datatransport-17.0.3/AndroidManifest.xml:29:17-115
 118                android:value="com.google.firebase.components.ComponentRegistrar" />
-118-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:34:17-82
+118-->[com.google.firebase:firebase-datatransport:17.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/d6f6bf5c117bd2e77b8bb6a4d4871b8f/firebase-datatransport-17.0.3/AndroidManifest.xml:30:17-82
 119            <meta-data
 119-->[com.google.firebase:firebase-abt:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/df546569957ff29359521f076f9ea7c1/firebase-abt-19.0.0/AndroidManifest.xml:13:13-15:85
 120                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
@@ -281,78 +281,78 @@
 143            android:exported="false" >
 143-->[com.google.firebase:firebase-messaging:20.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/360a2414925ade2feb412c28f1a05230/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:30:13-37
 144            <intent-filter android:priority="-500" >
-144-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:31:9-33:25
+144-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:31:9-33:25
 145                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-145-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:32:11-72
-145-->/home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:32:19-69
+145-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:32:11-72
+145-->/home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:32:19-69
 146            </intent-filter>
 147        </service>
 148
-149        <provider
-149-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:19:9-23:38
-150            android:name="com.crashlytics.android.CrashlyticsInitProvider"
-150-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:20:13-75
-151            android:authorities="com.ufpb.teste.crashlyticsinitprovider"
-151-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:21:13-75
-152            android:exported="false"
-152-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:22:13-37
-153            android:initOrder="90" />
-153-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:23:13-35
-154
-155        <service
-155-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:29:9-35:19
-156            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-156-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:30:13-103
-157            android:exported="false" >
-157-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:31:13-37
-158            <meta-data
-158-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:32:13-34:39
-159                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-159-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:33:17-94
-160                android:value="cct" />
-160-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:34:17-36
-161        </service>
-162        <service
-162-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:26:9-30:19
-163            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-163-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:27:13-117
-164            android:exported="false"
-164-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:28:13-37
-165            android:permission="android.permission.BIND_JOB_SERVICE" >
-165-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:29:13-69
-166        </service>
-167
-168        <receiver
-168-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:32:9-34:40
-169            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-169-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:33:13-132
-170            android:exported="false" />
-170-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:34:13-37
-171        <receiver
-171-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
-172            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-172-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:38:13-78
-173            android:exported="true"
-173-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:39:13-36
-174            android:permission="com.google.android.c2dm.permission.SEND" >
-174-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:40:13-73
-175            <intent-filter>
-175-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:41:13-43:29
-176                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-176-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:42:17-81
-176-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:42:25-78
-177            </intent-filter>
-178        </receiver>
-179
-180        <activity
-180-->[com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
-181            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-181-->[com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
-182            android:exported="false"
-182-->[com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
-183            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-183-->[com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
-184
+149        <receiver
+149-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
+150            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+150-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:38:13-78
+151            android:exported="true"
+151-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:39:13-36
+152            android:permission="com.google.android.c2dm.permission.SEND" >
+152-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:40:13-73
+153            <intent-filter>
+153-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:41:13-43:29
+154                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+154-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:42:17-81
+154-->[com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:42:25-78
+155            </intent-filter>
+156        </receiver>
+157
+158        <activity
+158-->[com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+159            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+159-->[com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+160            android:exported="false"
+160-->[com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+161            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+161-->[com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+162
+163        <provider
+163-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:19:9-23:38
+164            android:name="com.crashlytics.android.CrashlyticsInitProvider"
+164-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:20:13-75
+165            android:authorities="com.ufpb.teste.crashlyticsinitprovider"
+165-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:21:13-75
+166            android:exported="false"
+166-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:22:13-37
+167            android:initOrder="90" />
+167-->[com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:23:13-35
+168
+169        <service
+169-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:29:9-35:19
+170            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+170-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:30:13-103
+171            android:exported="false" >
+171-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:31:13-37
+172            <meta-data
+172-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:32:13-34:39
+173                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+173-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:33:17-94
+174                android:value="cct" />
+174-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:34:17-36
+175        </service>
+176        <service
+176-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:26:9-30:19
+177            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+177-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:27:13-117
+178            android:exported="false"
+178-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:28:13-37
+179            android:permission="android.permission.BIND_JOB_SERVICE" >
+179-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:29:13-69
+180        </service>
+181
+182        <receiver
+182-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:32:9-34:40
+183            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+183-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:33:13-132
+184            android:exported="false" />
+184-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:34:13-37
 185        <receiver
 185-->[com.google.android.gms:play-services-measurement:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/67aa390f07c3899bf95059b428ea3d3a/play-services-measurement-17.2.1/AndroidManifest.xml:29:9-33:20
 186            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"

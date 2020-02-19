@@ -1,30 +1,38 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-42:12
-INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-42:12
-INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-42:12
-INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-42:12
-MERGED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-42:12
-MERGED from [:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:1:1-42:12
+MERGED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:1:1-42:12
+MERGED from [:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.multidex:multidex:2.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/f84281a4afa4c14621231764fca4849a/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.react:react-native:0.60.5] /home/mirele/.gradle/caches/transforms-2/files-2.1/19a978bd3e58200327c32f519b6cc22f/jetified-react-native-0.60.5/AndroidManifest.xml:2:1-13:12
-MERGED from [com.google.firebase:firebase-ads:18.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/5bd2fca49ab3a2595b9bdbf0c313c153/firebase-ads-18.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.60.5] /home/mirele/.gradle/caches/transforms-2/files-2.1/2631cca12a985095a6a622d826c20a8b/jetified-react-native-0.60.5/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0f6e96488cde769b022bb892f30a5da/firebase-auth-19.2.0/AndroidManifest.xml:17:1-42:12
-MERGED from [com.google.firebase:firebase-core:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/c3c792bd3e3e3458c1e936ddc2fe6ff6/firebase-core-17.2.1/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-analytics:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/cf2c7666e057132c8ee71e1d2b785f2c/firebase-analytics-17.2.1/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:17:1-40:12
-MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:17:1-38:12
 MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:2:1-24:12
 MERGED from [com.google.firebase:firebase-dynamic-links:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/f86a099be3c3a6102d2c3b9f4a9dcad4/firebase-dynamic-links-19.0.0/AndroidManifest.xml:2:1-15:12
 MERGED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:15:1-38:12
-MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:2:1-24:12
-MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8dc2e75d98b592ee738a90c2c12bd860/firebase-auth-interop-19.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7aad406f6781cbfcd4be68ff4fcbc7b/play-services-clearcut-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/3e1fa272ea6ffb1337044eadcebcdaae/play-services-phenotype-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:17:1-38:12
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/360a2414925ade2feb412c28f1a05230/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.firebase:firebase-ads:18.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/5bd2fca49ab3a2595b9bdbf0c313c153/firebase-ads-18.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-core:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/c3c792bd3e3e3458c1e936ddc2fe6ff6/firebase-core-17.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/cf2c7666e057132c8ee71e1d2b785f2c/firebase-analytics-17.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/cb353eee63e0446f12d97ee41cb4b752/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.android.gms:play-services-ads:18.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/856d80693cdceba39f7e9dd19d42de18/jetified-play-services-ads-18.3.0/AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.browser:browser:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/7aba46a4d2bca9c13fd3c85a7ba8a378/browser-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:2:1-52:12
 MERGED from [org.webkit:android-jsc:r245459] /home/mirele/.gradle/caches/transforms-2/files-2.1/33402c5b91497541d995177e05d75ca8/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b47a63b30a5f009be3382ec82cf7fbf7/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/d6f6bf5c117bd2e77b8bb6a4d4871b8f/firebase-datatransport-17.0.3/AndroidManifest.xml:15:1-34:12
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:15:1-38:12
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:15:1-41:12
@@ -38,14 +46,6 @@ MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/mirele/.grad
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/3ff11ba5a7bbebbca349d32fc186d74a/imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/7fe4528ae38fa76d53adae3d43cfa6c9/soloader-0.6.0/AndroidManifest.xml:2:1-13:12
 MERGED from [io.grpc:grpc-android:1.21.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/d829edf29f4ac4cb1603f8ea14edaf6a/grpc-android-1.21.0/AndroidManifest.xml:2:1-13:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b47a63b30a5f009be3382ec82cf7fbf7/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8dc2e75d98b592ee738a90c2c12bd860/firebase-auth-interop-19.0.0/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7aad406f6781cbfcd4be68ff4fcbc7b/play-services-clearcut-17.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/3e1fa272ea6ffb1337044eadcebcdaae/play-services-phenotype-17.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:17:1-36:12
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:17:1-47:12
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/cb353eee63e0446f12d97ee41cb4b752/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/67aa390f07c3899bf95059b428ea3d3a/play-services-measurement-17.2.1/AndroidManifest.xml:17:1-55:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/6346d82d753bc82a45fcfca4c01f37aa/play-services-measurement-sdk-17.2.1/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.firebase:firebase-abt:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/df546569957ff29359521f076f9ea7c1/firebase-abt-19.0.0/AndroidManifest.xml:2:1-19:12
@@ -63,6 +63,7 @@ MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/mirele/
 MERGED from [androidx.fragment:fragment:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/ad0d1423c169fdd08c5329dee41d118a/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/0844de31a8e8e93c1d0c666ec619a1d6/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6096178be00070b123e60e14bc0b61b9/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/01fdb8560fdf0c047c1a7d54a89306aa/media-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/4167b61566299079d85aabd7433a4f4e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/7608c0148c15d95fbb81aec6c94750a3/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/e436bc8f0a876831cd79bb47eae1f838/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -72,7 +73,6 @@ MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mirele/.g
 MERGED from [androidx.customview:customview:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/879945e7913d98b167c77eaa334ee416/customview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/0883d146f659b36c9f11336dd95d405e/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/975536dacfd08e0a5cffef32bfec74be/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/01fdb8560fdf0c047c1a7d54a89306aa/media-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a32b7ea7a5dac3dceae636b517021706/loader-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/d7905fe922a6dc927b27f293fc4a91a5/core-1.0.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/ab34e2f81d913679e0b86efec58cb3d3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -81,10 +81,10 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mirele/.gradle/ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/d7b6d4cd6a3aec7a0c318442def9f20a/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-components:16.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/49b420fd79ddc121fccb4fe025efa51a/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
 MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/f0ae87c49f390373e4f642e5c4b5da26/firebase-encoders-json-16.0.0/AndroidManifest.xml:15:1-23:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/e1afb5ea34721b978ab24978993b0c61/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/5e1d2e50a3b828ed006dca2934d1b5aa/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/c3a1370b151a104afe6bcc43408cc635/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/7bfe5386474360510f2256866a0e0a07/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/e1afb5ea34721b978ab24978993b0c61/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/e190898be44fa5b2964df7b5cb9af30a/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/e71fefae841ceb2cfe93545c84efcb7f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/2985b9bf35331ca046890a3855d599cd/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
@@ -97,52 +97,52 @@ MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/mirele
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/e0e430cedb4753981109daa18995788d/transport-api-2.2.0/AndroidManifest.xml:15:1-22:12
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/377ce16f3ff3bfaf8bee13b4f9196ced/firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6d01a63caf0a82fed24ce442368e17bc/play-services-ads-base-18.3.0/AndroidManifest.xml:2:1-9:12
-INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 	package
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:2:5-29
-		INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:2:5-29
-		INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/debug/AndroidManifest.xml
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:4:5-30
-		INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:4:5-30
-		INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/debug/AndroidManifest.xml
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/debug/AndroidManifest.xml:3:5-51
 	xmlns:android
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:1:11-69
 	android:versionCode
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:3:5-28
-		INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:3:5-28
-		INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/debug/AndroidManifest.xml
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:6:5-67
-MERGED from [:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
-MERGED from [:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
-MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:26:5-67
+ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:27:5-67
 MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:27:5-67
-MERGED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:12:5-67
-MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:14:5-67
 MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:14:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:16:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:16:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:16:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:16:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/67aa390f07c3899bf95059b428ea3d3a/play-services-measurement-17.2.1/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/67aa390f07c3899bf95059b428ea3d3a/play-services-measurement-17.2.1/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/524333812144beb3324c2b3178d58b46/play-services-measurement-impl-17.2.1/AndroidManifest.xml:23:5-67
@@ -160,45 +160,59 @@ MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /home/mirele/.gradle/cac
 MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/mirele/.gradle/caches/transforms-2/files-2.1/f4ce76fa3f81071591b3d28928719db3/fabric-1.4.8/AndroidManifest.xml:29:5-67
 MERGED from [io.fabric.sdk.android:fabric:1.4.8] /home/mirele/.gradle/caches/transforms-2/files-2.1/f4ce76fa3f81071591b3d28928719db3/fabric-1.4.8/AndroidManifest.xml:29:5-67
 	android:name
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:7:5-77
-MERGED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:7:5-77
-MERGED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:7:5-77
+ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:7:5-77
 	android:name
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:7:22-75
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:7:22-75
 application
-ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:9:5-40:19
-MERGED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:9:5-40:19
-MERGED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:9:5-40:19
-MERGED from [:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
-MERGED from [:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
-MERGED from [com.facebook.react:react-native:0.60.5] /home/mirele/.gradle/caches/transforms-2/files-2.1/19a978bd3e58200327c32f519b6cc22f/jetified-react-native-0.60.5/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.60.5] /home/mirele/.gradle/caches/transforms-2/files-2.1/19a978bd3e58200327c32f519b6cc22f/jetified-react-native-0.60.5/AndroidManifest.xml:11:5-20
-MERGED from [com.google.firebase:firebase-ads:18.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/5bd2fca49ab3a2595b9bdbf0c313c153/firebase-ads-18.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-ads:18.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/5bd2fca49ab3a2595b9bdbf0c313c153/firebase-ads-18.3.0/AndroidManifest.xml:7:5-20
+ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:9:5-40:19
+MERGED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:9:5-40:19
+MERGED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:9:5-40:19
+MERGED from [:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [com.facebook.react:react-native:0.60.5] /home/mirele/.gradle/caches/transforms-2/files-2.1/2631cca12a985095a6a622d826c20a8b/jetified-react-native-0.60.5/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /home/mirele/.gradle/caches/transforms-2/files-2.1/2631cca12a985095a6a622d826c20a8b/jetified-react-native-0.60.5/AndroidManifest.xml:11:5-20
 MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0f6e96488cde769b022bb892f30a5da/firebase-auth-19.2.0/AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0f6e96488cde769b022bb892f30a5da/firebase-auth-19.2.0/AndroidManifest.xml:23:5-40:19
-MERGED from [com.google.firebase:firebase-core:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/c3c792bd3e3e3458c1e936ddc2fe6ff6/firebase-core-17.2.1/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-core:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/c3c792bd3e3e3458c1e936ddc2fe6ff6/firebase-core-17.2.1/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/cf2c7666e057132c8ee71e1d2b785f2c/firebase-analytics-17.2.1/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/cf2c7666e057132c8ee71e1d2b785f2c/firebase-analytics-17.2.1/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:24:5-38:19
-MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:24:5-38:19
-MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:29:5-37:19
 MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:14:5-22:19
 MERGED from [com.google.firebase:firebase-dynamic-links:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/f86a099be3c3a6102d2c3b9f4a9dcad4/firebase-dynamic-links-19.0.0/AndroidManifest.xml:7:5-13:19
 MERGED from [com.google.firebase:firebase-dynamic-links:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/f86a099be3c3a6102d2c3b9f4a9dcad4/firebase-dynamic-links-19.0.0/AndroidManifest.xml:7:5-13:19
 MERGED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:14:5-22:19
-MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:14:5-22:19
-MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:16:5-24:19
-MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8dc2e75d98b592ee738a90c2c12bd860/firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8dc2e75d98b592ee738a90c2c12bd860/firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7aad406f6781cbfcd4be68ff4fcbc7b/play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7aad406f6781cbfcd4be68ff4fcbc7b/play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/3e1fa272ea6ffb1337044eadcebcdaae/play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/3e1fa272ea6ffb1337044eadcebcdaae/play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/360a2414925ade2feb412c28f1a05230/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:22:5-42:19
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/360a2414925ade2feb412c28f1a05230/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.firebase:firebase-ads:18.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/5bd2fca49ab3a2595b9bdbf0c313c153/firebase-ads-18.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ads:18.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/5bd2fca49ab3a2595b9bdbf0c313c153/firebase-ads-18.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/c3c792bd3e3e3458c1e936ddc2fe6ff6/firebase-core-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/c3c792bd3e3e3458c1e936ddc2fe6ff6/firebase-core-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/cf2c7666e057132c8ee71e1d2b785f2c/firebase-analytics-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/cf2c7666e057132c8ee71e1d2b785f2c/firebase-analytics-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/cb353eee63e0446f12d97ee41cb4b752/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/cb353eee63e0446f12d97ee41cb4b752/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:18:5-24:19
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:18:5-24:19
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/d6f6bf5c117bd2e77b8bb6a4d4871b8f/firebase-datatransport-17.0.3/AndroidManifest.xml:24:5-32:19
@@ -209,20 +223,6 @@ MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/mir
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:25:5-39:19
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/7fe4528ae38fa76d53adae3d43cfa6c9/soloader-0.6.0/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/7fe4528ae38fa76d53adae3d43cfa6c9/soloader-0.6.0/AndroidManifest.xml:11:5-20
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8dc2e75d98b592ee738a90c2c12bd860/firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8dc2e75d98b592ee738a90c2c12bd860/firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7aad406f6781cbfcd4be68ff4fcbc7b/play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7aad406f6781cbfcd4be68ff4fcbc7b/play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/3e1fa272ea6ffb1337044eadcebcdaae/play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/3e1fa272ea6ffb1337044eadcebcdaae/play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/cb353eee63e0446f12d97ee41cb4b752/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/cb353eee63e0446f12d97ee41cb4b752/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/67aa390f07c3899bf95059b428ea3d3a/play-services-measurement-17.2.1/AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/67aa390f07c3899bf95059b428ea3d3a/play-services-measurement-17.2.1/AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/6346d82d753bc82a45fcfca4c01f37aa/play-services-measurement-sdk-17.2.1/AndroidManifest.xml:22:5-23:19
@@ -266,113 +266,127 @@ MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /home/mirele/
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/d7905fe922a6dc927b27f293fc4a91a5/core-1.0.1/AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:12:7-39
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:12:7-39
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:12:7-39
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:12:7-39
 	tools:ignore
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/debug/AndroidManifest.xml:7:75-114
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/debug/AndroidManifest.xml:7:75-114
 	android:roundIcon
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:14:7-52
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:14:7-52
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:14:7-52
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:14:7-52
 	tools:targetApi
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/debug/AndroidManifest.xml:7:54-74
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/debug/AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:13:7-41
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:13:7-41
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:13:7-41
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:13:7-41
 	android:allowBackup
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:11:7-33
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:11:7-33
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:11:7-33
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:11:7-33
 	android:theme
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:15:7-38
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:15:7-38
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:15:7-38
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:15:7-38
 	android:usesCleartextTraffic
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/debug/AndroidManifest.xml:7:18-53
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/debug/AndroidManifest.xml:7:18-53
 	android:name
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:10:7-38
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:10:7-38
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:10:7-38
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:10:7-38
 meta-data#com.google.android.gms.ads.APPLICATION_ID
-ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:16:7-18:69
+ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:16:7-18:69
 	android:value
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:18:13-67
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:18:13-67
 	android:name
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:17:13-69
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:17:13-69
 activity#com.ufpb.teste.MainActivity
-ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:19:7-28:18
+ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:19:7-28:18
 	android:label
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:21:9-41
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:21:9-41
 	android:windowSoftInputMode
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:23:9-51
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:23:9-51
 	android:configChanges
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:22:9-79
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:22:9-79
 	android:name
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:20:9-37
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:20:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:24:9-27:25
+ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:24:9-27:25
 action#android.intent.action.MAIN
-ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:25:13-65
+ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:25:13-65
 	android:name
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:25:21-62
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:25:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:26:13-73
+ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:26:13-73
 	android:name
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:26:23-70
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:26:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:29:7-84
+ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:29:7-84
 	android:name
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:29:17-81
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:29:17-81
 service#io.invertase.firebase.messaging.RNFirebaseMessagingService
-ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:30:7-34:17
+ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:30:7-34:17
 	android:name
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:30:16-89
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:30:16-89
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:31:9-33:25
+ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:31:9-33:25
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:32:11-72
+ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:32:11-72
 	android:name
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:32:19-69
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:32:19-69
 service#io.invertase.firebase.messaging.RNFirebaseInstanceIdService
-ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:35:7-39:17
+ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:35:7-39:17
 	android:name
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:35:16-90
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:35:16-90
 intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
-ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:36:9-38:25
+ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:36:9-38:25
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:37:11-74
+ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:37:11-74
 	android:name
-		ADDED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:37:19-71
+		ADDED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml:37:19-71
 uses-sdk
-INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.multidex:multidex:2.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/f84281a4afa4c14621231764fca4849a/multidex-2.0.1/AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/f84281a4afa4c14621231764fca4849a/multidex-2.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.react:react-native:0.60.5] /home/mirele/.gradle/caches/transforms-2/files-2.1/19a978bd3e58200327c32f519b6cc22f/jetified-react-native-0.60.5/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.60.5] /home/mirele/.gradle/caches/transforms-2/files-2.1/19a978bd3e58200327c32f519b6cc22f/jetified-react-native-0.60.5/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-ads:18.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/5bd2fca49ab3a2595b9bdbf0c313c153/firebase-ads-18.3.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-ads:18.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/5bd2fca49ab3a2595b9bdbf0c313c153/firebase-ads-18.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native:0.60.5] /home/mirele/.gradle/caches/transforms-2/files-2.1/2631cca12a985095a6a622d826c20a8b/jetified-react-native-0.60.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /home/mirele/.gradle/caches/transforms-2/files-2.1/2631cca12a985095a6a622d826c20a8b/jetified-react-native-0.60.5/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0f6e96488cde769b022bb892f30a5da/firebase-auth-19.2.0/AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0f6e96488cde769b022bb892f30a5da/firebase-auth-19.2.0/AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-core:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/c3c792bd3e3e3458c1e936ddc2fe6ff6/firebase-core-17.2.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-core:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/c3c792bd3e3e3458c1e936ddc2fe6ff6/firebase-core-17.2.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/cf2c7666e057132c8ee71e1d2b785f2c/firebase-analytics-17.2.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/cf2c7666e057132c8ee71e1d2b785f2c/firebase-analytics-17.2.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:21:5-23:41
-MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:21:5-23:41
 MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-dynamic-links:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/f86a099be3c3a6102d2c3b9f4a9dcad4/firebase-dynamic-links-19.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-dynamic-links:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/f86a099be3c3a6102d2c3b9f4a9dcad4/firebase-dynamic-links-19.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8dc2e75d98b592ee738a90c2c12bd860/firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8dc2e75d98b592ee738a90c2c12bd860/firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7aad406f6781cbfcd4be68ff4fcbc7b/play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7aad406f6781cbfcd4be68ff4fcbc7b/play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/3e1fa272ea6ffb1337044eadcebcdaae/play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/3e1fa272ea6ffb1337044eadcebcdaae/play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:21:5-23:41
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/360a2414925ade2feb412c28f1a05230/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/360a2414925ade2feb412c28f1a05230/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-ads:18.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/5bd2fca49ab3a2595b9bdbf0c313c153/firebase-ads-18.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ads:18.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/5bd2fca49ab3a2595b9bdbf0c313c153/firebase-ads-18.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/c3c792bd3e3e3458c1e936ddc2fe6ff6/firebase-core-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/c3c792bd3e3e3458c1e936ddc2fe6ff6/firebase-core-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/cf2c7666e057132c8ee71e1d2b785f2c/firebase-analytics-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/cf2c7666e057132c8ee71e1d2b785f2c/firebase-analytics-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/cb353eee63e0446f12d97ee41cb4b752/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/cb353eee63e0446f12d97ee41cb4b752/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:12:5-14:63
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:12:5-14:63
 MERGED from [com.google.android.gms:play-services-ads:18.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/856d80693cdceba39f7e9dd19d42de18/jetified-play-services-ads-18.3.0/AndroidManifest.xml:21:5-23:52
@@ -383,6 +397,8 @@ MERGED from [me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transf
 MERGED from [me.leolin:ShortcutBadger:1.1.22] /home/mirele/.gradle/caches/transforms-2/files-2.1/8ef8899c44d64fb6aa29a34df6d8281c/ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /home/mirele/.gradle/caches/transforms-2/files-2.1/33402c5b91497541d995177e05d75ca8/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /home/mirele/.gradle/caches/transforms-2/files-2.1/33402c5b91497541d995177e05d75ca8/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b47a63b30a5f009be3382ec82cf7fbf7/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b47a63b30a5f009be3382ec82cf7fbf7/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/d6f6bf5c117bd2e77b8bb6a4d4871b8f/firebase-datatransport-17.0.3/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/d6f6bf5c117bd2e77b8bb6a4d4871b8f/firebase-datatransport-17.0.3/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:19:5-21:41
@@ -409,22 +425,6 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] /home/mirele/.gradle/caches/t
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/7fe4528ae38fa76d53adae3d43cfa6c9/soloader-0.6.0/AndroidManifest.xml:7:5-9:41
 MERGED from [io.grpc:grpc-android:1.21.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/d829edf29f4ac4cb1603f8ea14edaf6a/grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
 MERGED from [io.grpc:grpc-android:1.21.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/d829edf29f4ac4cb1603f8ea14edaf6a/grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b47a63b30a5f009be3382ec82cf7fbf7/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b47a63b30a5f009be3382ec82cf7fbf7/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8dc2e75d98b592ee738a90c2c12bd860/firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8dc2e75d98b592ee738a90c2c12bd860/firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7aad406f6781cbfcd4be68ff4fcbc7b/play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7aad406f6781cbfcd4be68ff4fcbc7b/play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/3e1fa272ea6ffb1337044eadcebcdaae/play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/3e1fa272ea6ffb1337044eadcebcdaae/play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/cb353eee63e0446f12d97ee41cb4b752/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/cb353eee63e0446f12d97ee41cb4b752/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/67aa390f07c3899bf95059b428ea3d3a/play-services-measurement-17.2.1/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/67aa390f07c3899bf95059b428ea3d3a/play-services-measurement-17.2.1/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/6346d82d753bc82a45fcfca4c01f37aa/play-services-measurement-sdk-17.2.1/AndroidManifest.xml:20:5-44
@@ -459,6 +459,8 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mirele
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/0844de31a8e8e93c1d0c666ec619a1d6/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6096178be00070b123e60e14bc0b61b9/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6096178be00070b123e60e14bc0b61b9/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/01fdb8560fdf0c047c1a7d54a89306aa/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/01fdb8560fdf0c047c1a7d54a89306aa/media-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/4167b61566299079d85aabd7433a4f4e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/4167b61566299079d85aabd7433a4f4e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/7608c0148c15d95fbb81aec6c94750a3/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
@@ -477,8 +479,6 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mirele/
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/0883d146f659b36c9f11336dd95d405e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/975536dacfd08e0a5cffef32bfec74be/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/975536dacfd08e0a5cffef32bfec74be/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/01fdb8560fdf0c047c1a7d54a89306aa/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/01fdb8560fdf0c047c1a7d54a89306aa/media-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a32b7ea7a5dac3dceae636b517021706/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a32b7ea7a5dac3dceae636b517021706/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/d7905fe922a6dc927b27f293fc4a91a5/core-1.0.1/AndroidManifest.xml:20:5-44
@@ -495,14 +495,14 @@ MERGED from [com.google.firebase:firebase-components:16.0.0] /home/mirele/.gradl
 MERGED from [com.google.firebase:firebase-components:16.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/49b420fd79ddc121fccb4fe025efa51a/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/f0ae87c49f390373e4f642e5c4b5da26/firebase-encoders-json-16.0.0/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/f0ae87c49f390373e4f642e5c4b5da26/firebase-encoders-json-16.0.0/AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/e1afb5ea34721b978ab24978993b0c61/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/e1afb5ea34721b978ab24978993b0c61/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/5e1d2e50a3b828ed006dca2934d1b5aa/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/5e1d2e50a3b828ed006dca2934d1b5aa/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/c3a1370b151a104afe6bcc43408cc635/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/c3a1370b151a104afe6bcc43408cc635/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/7bfe5386474360510f2256866a0e0a07/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/7bfe5386474360510f2256866a0e0a07/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/e1afb5ea34721b978ab24978993b0c61/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/e1afb5ea34721b978ab24978993b0c61/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/e190898be44fa5b2964df7b5cb9af30a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/e190898be44fa5b2964df7b5cb9af30a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/e71fefae841ceb2cfe93545c84efcb7f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
@@ -527,18 +527,18 @@ MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/mire
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/377ce16f3ff3bfaf8bee13b4f9196ced/firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6d01a63caf0a82fed24ce442368e17bc/play-services-ads-base-18.3.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6d01a63caf0a82fed24ce442368e17bc/play-services-ads-base-18.3.0/AndroidManifest.xml:5:5-44
-INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/debug/AndroidManifest.xml
-INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/debug/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:14:9-60
 	android:targetSdkVersion
-		INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/mirele/Documentos/react-native-firebase-starter/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mirele/Documentos/projetos/hope/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+ADDED from [:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
@@ -550,27 +550,27 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/add4d23fa76273f26d460b091e11d41f/play-services-measurement-sdk-api-17.2.1/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/add4d23fa76273f26d460b091e11d41f/play-services-measurement-sdk-api-17.2.1/AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+		ADDED from [:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
-MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:25:5-79
-MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:25:5-79
+ADDED from [:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
 MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:26:5-79
 MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:26:5-79
-MERGED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:25:5-79
-MERGED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:25:5-79
 MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:13:5-79
 MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/a556b0c1471e62f47751615bfecd0819/transport-backend-cct-2.2.0/AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:22:5-79
 MERGED from [io.grpc:grpc-android:1.21.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/d829edf29f4ac4cb1603f8ea14edaf6a/grpc-android-1.21.0/AndroidManifest.xml:11:5-79
 MERGED from [io.grpc:grpc-android:1.21.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/d829edf29f4ac4cb1603f8ea14edaf6a/grpc-android-1.21.0/AndroidManifest.xml:11:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/67aa390f07c3899bf95059b428ea3d3a/play-services-measurement-17.2.1/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/67aa390f07c3899bf95059b428ea3d3a/play-services-measurement-17.2.1/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/524333812144beb3324c2b3178d58b46/play-services-measurement-impl-17.2.1/AndroidManifest.xml:24:5-79
@@ -580,33 +580,33 @@ MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /home/mirele/
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/add4d23fa76273f26d460b091e11d41f/play-services-measurement-sdk-api-17.2.1/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/add4d23fa76273f26d460b091e11d41f/play-services-measurement-sdk-api-17.2.1/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+		ADDED from [:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+ADDED from [:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
 MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0f6e96488cde769b022bb892f30a5da/firebase-auth-19.2.0/AndroidManifest.xml:33:9-39:19
 MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0f6e96488cde769b022bb892f30a5da/firebase-auth-19.2.0/AndroidManifest.xml:33:9-39:19
-MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:31:9-37:19
-MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:31:9-37:19
-MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:30:9-36:19
 MERGED from [com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:31:9-37:19
+MERGED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:31:9-37:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:15:9-21:19
 MERGED from [com.google.firebase:firebase-dynamic-links:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/f86a099be3c3a6102d2c3b9f4a9dcad4/firebase-dynamic-links-19.0.0/AndroidManifest.xml:8:9-12:19
 MERGED from [com.google.firebase:firebase-dynamic-links:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/f86a099be3c3a6102d2c3b9f4a9dcad4/firebase-dynamic-links-19.0.0/AndroidManifest.xml:8:9-12:19
 MERGED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:15:9-21:19
-MERGED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:15:9-21:19
-MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:17:9-23:19
-MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/360a2414925ade2feb412c28f1a05230/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:35:9-41:19
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/360a2414925ade2feb412c28f1a05230/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:35:9-41:19
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/d6f6bf5c117bd2e77b8bb6a4d4871b8f/firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/d6f6bf5c117bd2e77b8bb6a4d4871b8f/firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/d6f6bf5c117bd2e77b8bb6a4d4871b8f/firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/d6f6bf5c117bd2e77b8bb6a4d4871b8f/firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
 MERGED from [com.google.firebase:firebase-abt:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/df546569957ff29359521f076f9ea7c1/firebase-abt-19.0.0/AndroidManifest.xml:12:9-16:19
 MERGED from [com.google.firebase:firebase-abt:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/df546569957ff29359521f076f9ea7c1/firebase-abt-19.0.0/AndroidManifest.xml:12:9-16:19
 MERGED from [com.google.firebase:firebase-common:19.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/2daae37d5dbe463f0500250cbaf3a85a/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
@@ -618,13 +618,13 @@ MERGED from [com.google.firebase:firebase-common:19.3.0] /home/mirele/.gradle/ca
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/2daae37d5dbe463f0500250cbaf3a85a/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+		ADDED from [:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
 meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
-ADDED from [:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+ADDED from [:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
 	android:value
-		ADDED from [:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+		ADDED from [:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
 	android:name
-		ADDED from [:react-native-firebase] /home/mirele/Documentos/react-native-firebase-starter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+		ADDED from [:react-native-firebase] /home/mirele/Documentos/projetos/hope/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0f6e96488cde769b022bb892f30a5da/firebase-auth-19.2.0/AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
@@ -647,6 +647,12 @@ ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/mirele/.gradle/cache
 		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0f6e96488cde769b022bb892f30a5da/firebase-auth-19.2.0/AndroidManifest.xml:38:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0f6e96488cde769b022bb892f30a5da/firebase-auth-19.2.0/AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:34:17-107
 provider#com.google.firebase.perf.provider.FirebasePerfProvider
 ADDED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:25:9-29:39
 	android:authorities
@@ -663,18 +669,18 @@ ADDED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/cache
 		ADDED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:36:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-perf:19.0.3] /home/mirele/.gradle/caches/transforms-2/files-2.1/fa58d01b08e23cbc16e5506cc0c221df/firebase-perf-19.0.3/AndroidManifest.xml:35:17-109
-meta-data#com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar
-ADDED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:32:13-34:85
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:20:13-22:85
 	android:value
-		ADDED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:34:17-82
+		ADDED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:22:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:33:17-117
-meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
-ADDED from [com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:33:13-35:85
+		ADDED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.functions.FunctionsRegistrar
+ADDED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:18:13-20:85
 	android:value
-		ADDED from [com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:35:17-82
+		ADDED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:20:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-storage:19.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/8864fea7d0fc9c3c8b02e427cbf6cc27/firebase-storage-19.1.0/AndroidManifest.xml:34:17-107
+		ADDED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:19:17-111
 meta-data#com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar
 ADDED from [com.google.firebase:firebase-dynamic-links:19.0.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/f86a099be3c3a6102d2c3b9f4a9dcad4/firebase-dynamic-links-19.0.0/AndroidManifest.xml:9:13-11:85
 	android:value
@@ -687,18 +693,12 @@ ADDED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/c
 		ADDED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:34:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-database:19.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/b0344813ee79624a49b210cc923cec2a/firebase-database-19.2.0/AndroidManifest.xml:33:17-109
-meta-data#com.google.firebase.components:com.google.firebase.functions.FunctionsRegistrar
-ADDED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:18:13-20:85
+meta-data#com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar
+ADDED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:32:13-34:85
 	android:value
-		ADDED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:20:17-82
+		ADDED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:34:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-functions:19.0.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4060adf665f8f99d952956ef42015123/jetified-firebase-functions-19.0.1/AndroidManifest.xml:19:17-111
-meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
-ADDED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:20:13-22:85
-	android:value
-		ADDED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:22:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-firestore:21.3.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/a7122a7be510e7555ba6891c1c84e9d6/jetified-firebase-firestore-21.3.1/AndroidManifest.xml:21:17-111
+		ADDED from [com.google.firebase:firebase-config:19.0.4] /home/mirele/.gradle/caches/transforms-2/files-2.1/dc446b8d5f7d180ad5ba086ddd65a239/firebase-config-19.0.4/AndroidManifest.xml:33:17-117
 service#com.google.firebase.messaging.FirebaseMessagingService
 ADDED from [com.google.firebase:firebase-messaging:20.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/360a2414925ade2feb412c28f1a05230/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:28:9-34:19
 	android:exported
@@ -711,6 +711,44 @@ ADDED from [com.google.firebase:firebase-messaging:20.1.0] /home/mirele/.gradle/
 		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/360a2414925ade2feb412c28f1a05230/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:40:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/360a2414925ade2feb412c28f1a05230/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:39:17-119
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
 provider#com.crashlytics.android.CrashlyticsInitProvider
 ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4b28eabc7894199a4557f99d2e7e5590/jetified-crashlytics-2.10.1/AndroidManifest.xml:19:9-23:38
 	android:authorities
@@ -819,44 +857,6 @@ ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/mire
 		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:34:13-37
 	android:name
 		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/6b8451d4888e0d19004d225f0fa80762/transport-runtime-2.2.0/AndroidManifest.xml:33:13-132
-meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:30:13-32:85
-	android:value
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:32:17-82
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/4190b120d1b505442b2438ca7986f61c/play-services-measurement-api-17.2.1/AndroidManifest.xml:31:17-139
-uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
-meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
-ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:32:13-34:85
-	android:value
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:34:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:33:17-96
-receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:39:13-36
-	android:permission
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:40:13-73
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:38:13-78
-intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:41:13-43:29
-action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:42:17-81
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mirele/.gradle/caches/transforms-2/files-2.1/6820b1017fb89450106c527c445b784a/firebase-iid-20.0.2/AndroidManifest.xml:42:25-78
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/mirele/.gradle/caches/transforms-2/files-2.1/491c37a7dea54d920faaf23062223e73/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
 ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/67aa390f07c3899bf95059b428ea3d3a/play-services-measurement-17.2.1/AndroidManifest.xml:26:5-110
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /home/mirele/.gradle/caches/transforms-2/files-2.1/524333812144beb3324c2b3178d58b46/play-services-measurement-impl-17.2.1/AndroidManifest.xml:26:5-110

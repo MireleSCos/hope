@@ -16,6 +16,7 @@ export default class App extends Component {
       this.setState({isAuthenticated: true});
       console.log(user);
     }catch(err){
+      this.setState({isAuthenticated: false});
       console.log(err);
     }
   }
@@ -38,7 +39,7 @@ export default class App extends Component {
             <TouchableOpacity style={styles.button} onPress={this.login}>
               <Text style={styles.buttonText}>Logar</Text>
             </TouchableOpacity>
-            {this.state.isAuthenticated ? <Text>Logado com sucesso</Text> : null}
+            {this.state.isAuthenticated ? <Text>Logado com sucesso</Text> : <Text>Ninguem está logado</Text>}
         </View>
     );
   }
@@ -49,7 +50,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#333',
+    backgroundColor: '#BCA9F5',
     padding:20,
   },
   input:{

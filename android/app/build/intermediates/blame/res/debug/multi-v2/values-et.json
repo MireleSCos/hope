@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/mirele/Documentos/react-native-firebase-starter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml",
+            "outputFile": "/home/mirele/Documentos/projetos/hope/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml",
             "map": [
                 {
                     "source": "/home/mirele/.gradle/caches/transforms-2/files-2.1/360a2414925ade2feb412c28f1a05230/jetified-firebase-messaging-20.1.0/res/values-et/values.xml",

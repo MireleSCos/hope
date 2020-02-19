@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/mirele/Documentos/react-native-firebase-starter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml",
+            "outputFile": "/home/mirele/Documentos/projetos/hope/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml",
             "map": [
                 {
                     "source": "/home/mirele/.gradle/caches/transforms-2/files-2.1/0cde4d7f6ab8ec5597756a1da9a858b1/appcompat-1.0.2/res/values-kk/values-kk.xml",

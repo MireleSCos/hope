@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/mirele/Documentos/react-native-firebase-starter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml",
+            "outputFile": "/home/mirele/Documentos/projetos/hope/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml",
             "map": [
                 {
                     "source": "/home/mirele/.gradle/caches/transforms-2/files-2.1/856d80693cdceba39f7e9dd19d42de18/jetified-play-services-ads-18.3.0/res/values-ka/values.xml",

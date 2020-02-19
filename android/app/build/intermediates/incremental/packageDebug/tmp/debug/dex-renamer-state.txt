@@ -1,4 +1,4 @@
-#Tue Feb 18 20:19:39 BRT 2020
+#Tue Feb 18 23:47:06 BRT 2020
 path.3=classes4.dex
 path.2=classes3.dex
 path.1=classes2.dex
@@ -7,7 +7,7 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.3=/home/mirele/Documentos/react-native-firebase-starter/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes4.dex
-base.2=/home/mirele/Documentos/react-native-firebase-starter/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes3.dex
-base.1=/home/mirele/Documentos/react-native-firebase-starter/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes2.dex
-base.0=/home/mirele/Documentos/react-native-firebase-starter/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+base.3=/home/mirele/Documentos/projetos/hope/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes4.dex
+base.2=/home/mirele/Documentos/projetos/hope/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes3.dex
+base.1=/home/mirele/Documentos/projetos/hope/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes2.dex
+base.0=/home/mirele/Documentos/projetos/hope/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
