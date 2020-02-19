@@ -1,0 +1,4 @@
+# Referenced at /home/mirele/Documentos/react-native-firebase-starter/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:39
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/mirele/Documentos/react-native-firebase-starter/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:39
+-keep class com.ufpb.teste.MainApplication { <init>(); }
